@@ -3,6 +3,11 @@ layout: default
 ---
 
 {% for post in site.posts %}
-	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-	<p>{{ post.date | date: "%b %-d, %Y" }}</p>
+	<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+	<p>{{ post.description }}</p>
 {% endfor %}
+
+<hr>
+
+{% capture cta %}{% include newsletter-cta.md %}{% endcapture %}
+{{ cta | markdownify }}

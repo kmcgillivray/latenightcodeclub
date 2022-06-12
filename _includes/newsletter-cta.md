@@ -2,7 +2,7 @@
 
 _It's midnight. You're huddled in the restricted section of the library, eyes glued to powerful tomes—Creating Killer Websites! Resilient Web Design! The Pragmatic Programmer! You get a missive from your co-conspirators in the Late Night Code Club—another night of adventurous learning is about to begin._
 
-If you enjoyed this post and want to read more like it, I'd like to invite you to join the _Late Night Code Club_ by signing up for the newsletter—it's a programming education newsletter all about learning and teaching programming. We're exploring new approaches to learning and teaching, code as a creative practice, and programming as part of an interdisciplinary education. In each newsletter you'll receive updates about new posts as well as other resources and ideas all about learning programming! It'll be short, interesting, and encouraging for learners and teachers. See you there!
+If you enjoy these posts and want to read more, I'd like to invite you to join the _Late Night Code Club_ by signing up for the newsletter—it's all about learning and teaching programming. We're exploring the metaskills that hide between the tutorials, programming as part of a creative practice, and uncovering the secrets that make the web magical. In each newsletter you'll receive updates about new posts as well as other resources and ideas all about learning programming! It'll be short, interesting, and encouraging for learners and teachers. See you there!
 
 <form action="https://tinyletter.com/latenightcodeclub" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/latenightcodeclub', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
   <label class="sr-only" for="tlemail">Enter your email address</label>
