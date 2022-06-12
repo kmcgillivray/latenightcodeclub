@@ -1,0 +1,6 @@
+# Site settings
+title: Late Night Code Club
+
+# Build settings
+markdown: kramdown
+permalink: pretty

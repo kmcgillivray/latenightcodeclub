@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article>
+	<h1>{{ page.title }}</h1>
+	<p>{{ page.date | date: "%b %-d, %Y" }}</p>
+ 	{{ content }}
+</article>
+
+<hr>
+
+{% capture cta %}{% include newsletter-cta.md %}{% endcapture %}
+{{ cta | markdownify }}
