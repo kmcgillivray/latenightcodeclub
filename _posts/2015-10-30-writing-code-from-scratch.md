@@ -39,7 +39,7 @@ In our example, it might look like this:
 
 The other option is to sketch out the instructions visually in a flow chart. You can do this in a sketchbook or on the computer. Here's an example of how that might look:
 
-![Script Sketch](/img/script-sketch.png)
+![Script Sketch]({{ site.baseurl }}/img/script-sketch.png)
 
 The logic may not be completely correct after you write it out or sketch it out, and you may not know exactly how to write this in actual code, but that's okay. You have enough to get started on the next step, and you can come back to this step later if there's an issue with the logic.
 

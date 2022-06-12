@@ -1,5 +1,6 @@
 # Site settings
 title: Late Night Code Club
+baseurl: /latenightcodeclub
 
 # Build settings
 markdown: kramdown
