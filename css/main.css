@@ -8,16 +8,16 @@
 	box-sizing: border-box;
 }
 html {
-	font-size: 16px;
+	font-size: 15px;
 }
 @media (min-width:768px) {
 	html {
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
 body {
 	font-size: 1em;
-	line-height: 1.35;
+	line-height: 1.4;
 	font-family: Helvetica, sans-serif;
   margin-top: 40px;
   margin-bottom: 80px;
@@ -68,9 +68,6 @@ h1 {
 h2 {
   font-size: 1.1rem;
 }
-a {
-	color: #7E7E7E;
-}
 ol li,
 ul li {
   margin-top: 0px;
@@ -97,9 +94,6 @@ hr {
 
 .nav {
   margin-bottom: 40px;
-}
-.nav a {
-	text-decoration: none;
 }
 .nav ul {
 	list-style: none;
