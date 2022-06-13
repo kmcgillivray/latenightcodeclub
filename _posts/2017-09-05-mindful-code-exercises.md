@@ -22,7 +22,7 @@ Here are a few of the mindfulness exercises I've experimented with. Many of them
 
 ## Meditation bookends
 
-Start each coding session with a few minutes of sitting meditation ([Headspace](http://headspace.com) can help) and end each session with a few minutes of walking meditation.
+Start each coding session with a few minutes of sitting meditation and end each session with a few minutes of walking meditation.
 
 ## Pre- and post-commit breathing
 

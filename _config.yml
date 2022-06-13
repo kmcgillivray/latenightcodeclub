@@ -4,4 +4,4 @@ baseurl: /latenightcodeclub
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title

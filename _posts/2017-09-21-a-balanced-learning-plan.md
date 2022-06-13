@@ -5,7 +5,7 @@ category: code
 description: "Go beyond the tutorial with a balanced approach to learning programming."
 ---
 
-As I explored in [a previous post](/the-four-layers-of-programming-skills/), I see learning programming as four layers of skills:
+As I explored in [a previous post](the-four-layers-of-programming-skills), I see learning programming as four layers of skills:
 
 1. **Syntax skills and programming concepts** – how to read and write a programming language and the core concepts behind how the language works.
 2. **Programmatic thinking skills** – how to think like a computer and translate a process into a specific set of instructions that a computer can understand.
